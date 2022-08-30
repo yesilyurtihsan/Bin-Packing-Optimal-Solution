@@ -1,5 +1,5 @@
 # Bin-Packing-Optimal-Solution
-Most Optimal Solution Returning Algorithm Implementation for NP Problem Bin Packing
+Most Optimal Solution Algorithm for Bin Packing Problem
 
 NOTE: This algorithm finds the most optimal solution for the Bin Packing Problem. Do not miss this with the most optimal working Greedy Algorithms. Greedy algorithms, Best-fit algorithm for example, may work more optimally but they will not suffice finding the most optimal solution. This algorithm implemented finds the most optimal solution but it will not be sufficient as time complexity since this is an exponential time algorithm. Just a warning.
 
